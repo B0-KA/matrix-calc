@@ -4,7 +4,7 @@ A robust, offline-first linear algebra toolkit built with Flutter. Designed for 
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![License](https://img.shields.io/github/license/Taher-awad/matrix-calc-offline?style=for-the-badge)
+![License](https://img.shields.io/github/license/B0-KA/matrix-calc-offline?style=for-the-badge)
 
 ## Features
 
@@ -45,7 +45,7 @@ Solve systems of linear equations (`Ax = B`) using multiple methods:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Taher-awad/matrix-calc-offline.git
+   git clone https://github.com/B0-KA/matrix-calc-offline.git
    cd matrix-calc-offline
    ```
 
@@ -61,7 +61,7 @@ Solve systems of linear equations (`Ax = B`) using multiple methods:
 
 ## Releases
 
-The latest APK can be downloaded from the [Releases](https://github.com/Taher-awad/matrix-calc-offline/releases) page.
+The latest APK can be downloaded from the [Releases](https://github.com/B0-KA/matrix-calc-offline/releases) page.
 
 ## Contributing
 
